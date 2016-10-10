@@ -1,5 +1,5 @@
 # InterchangeableCommunication
-Gesucht werden Anwendungen, die Kommunikationsformen möglichst reibungslos und im Idealfall in Echtzeit ineinander übergehen lassen. Ziel ist es, ist die Kommunikation bzw. die Wahrnehmung der Umwelt einfacher zu gestalten – z.B. für Menschen mit Sehbehinderung, Gehörlose oder Schwerhörige, Analphabeten oder Menschen mit Sprachbehinderung. Dazu könnten zum Beispiel Lösungen gehören, die übersetzen, vorlesen, beschreiben, transkribieren, etc.
+Gesucht werden Anwendungen, die Kommunikationsformen möglichst reibungslos und im Idealfall in Echtzeit ineinander übergehen lassen. Ziel ist es, die Kommunikation bzw. die Wahrnehmung der Umwelt einfacher zu gestalten – z.B. für Menschen mit Seh- oder Hörbehinderung, NutzerInnen der Gebärdensprache, Menschen mit Leseschwierigkeiten oder einer Sprachbehinderung. Dazu könnten zum Beispiel Lösungen gehören, die übersetzen, vorlesen, beschreiben, transkribieren, etc.
 
 ## Die anderen zwei Repositories
 [Extend Accessibility Now](https://github.com/NeueNaeheHackathon/ExtendAccessibilityNow)
@@ -23,9 +23,9 @@ Falls Sie unterwegs Inspiration von anderen Teams benötigen oder sich sogar mit
 Kurzfristiges Ziel jedes einzelnen Projektes ist die Teilnahme am Neue-Nähe-Hackathon vom 25.11. bis 27.11.2016 im Microsoft Office in Berlin.
 Langfristig wollen wir digitale Anwendungen und Angebote fördern, die für mehr Barrierefreiheit und ein selbstverständlicheres Zusammenleben von Menschen mit und ohne Behinderung sorgen. 
 ## Link auf Hackathon Anmeldeseite
-Infos folgen...
+[www.microsoft.com/germany/techwiese/events/hackathon/neue-naehe-der-hackathon-fuer-mehr-inklusion-und-teilhabe.aspx](https://www.microsoft.com/germany/techwiese/events/hackathon/neue-naehe-der-hackathon-fuer-mehr-inklusion-und-teilhabe.aspx)
 
 ## Link zu Aktion Mensch
-[www.aktionmensch.de](http://www.aktionmensch.de)
+[www.aktion-mensch.de/neuenaehe](https://www.aktion-mensch.de/neuenaehe)
 ## Link zu Microsofts Entwicklerseiten 
 [www.techwiese.de](http://www.techwiese.de)
