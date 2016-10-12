@@ -1,6 +1,8 @@
 # InterchangeableCommunication
 Gesucht werden Anwendungen, die Kommunikationsformen möglichst reibungslos und im Idealfall in Echtzeit ineinander übergehen lassen. Ziel ist es, die Kommunikation bzw. die Wahrnehmung der Umwelt einfacher zu gestalten – z.B. für Menschen mit Seh- oder Hörbehinderung, NutzerInnen der Gebärdensprache, Menschen mit Leseschwierigkeiten oder einer Sprachbehinderung. Dazu könnten zum Beispiel Lösungen gehören, die übersetzen, vorlesen, beschreiben, transkribieren, etc.
 
+## Bisher erstellte Projekte
+
 ## Die anderen zwei Repositories
 [Extend Accessibility Now](https://github.com/NeueNaeheHackathon/ExtendAccessibilityNow)
 [Inclusion Promoting Lifehacks](https://github.com/NeueNaeheHackathon/InclusionPromotingLifehacks)
