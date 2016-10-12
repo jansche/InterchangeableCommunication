@@ -3,6 +3,8 @@ Gesucht werden Anwendungen, die Kommunikationsformen möglichst reibungslos und 
 
 ## Bisher erstellte Projekte
 
+[EbookReaderLeicht](https://github.com/aktionmensch/EbookReaderLeicht)
+
 ## Die anderen zwei Repositories
 [Extend Accessibility Now](https://github.com/NeueNaeheHackathon/ExtendAccessibilityNow)
 [Inclusion Promoting Lifehacks](https://github.com/NeueNaeheHackathon/InclusionPromotingLifehacks)
